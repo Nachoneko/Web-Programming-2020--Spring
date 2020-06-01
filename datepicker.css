@@ -1,0 +1,47 @@
+
+#datepicker1{
+    width: 150px;
+    height: 20px;
+    border: solid black 1px;
+}
+#box1{
+    margin-top: 50px;
+    width: 250px;
+    height: 170px;
+    border: solid black 1px;   
+    
+}
+.kk{
+    display: inline-block;
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-left: 2px;
+    text-align: center;
+    width: 31px;
+}
+.month{
+    display: inline-block;
+    margin-top: 5px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-align: center;
+    width: 55px;
+    height: 30px;
+    border: solid black 0.1px;
+}
+.year{
+    display: inline-block;
+    margin-top: 5px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-align: center;
+    width: 55px;
+    height: 30px;
+    border: solid black 0.1px;
+}
+#up{
+    user-select: none;
+}
+#down{
+    user-select: none
+}
